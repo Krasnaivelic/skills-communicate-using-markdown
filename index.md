@@ -10,4 +10,8 @@ _SOY GENIAL_
 var myVar = "hola Krasna"
 ```
 
+- [ ] estudiar
+- [ ] bice
+- [X] raio macuin
+
 
